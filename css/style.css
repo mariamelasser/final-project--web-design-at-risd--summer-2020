@@ -10,3 +10,9 @@ h1{
    font-size: 30px;
    
 }
+a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'MuseoModerno', cursive;
+}
