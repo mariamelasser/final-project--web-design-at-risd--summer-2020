@@ -23,3 +23,8 @@ a {
     height: auto;
 
 }
+.rightfooter {
+  text-align: right;
+  font-size: 10px
+  /*<div class='rightfooter'>©2020 Mariam Elasser</div>*/
+}
