@@ -8,9 +8,12 @@ h1{
    font-family: 'MuseoModerno', cursive;
    font-weight: 500;
    font-size: 30px;
+   padding: 20px;
+   width:285px;
    
 }
 a {
+ 
   color: white;
   text-decoration: none;
   text-transform: uppercase;
